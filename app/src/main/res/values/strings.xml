@@ -6,4 +6,5 @@
     <string name="edit_text_last_name_hint">Введите фамилию...</string>
     <string name="button_save">Сохранить</string>
     <string name="button_read">Прочитать</string>
+    <string name="toast_save_file_ok">Файл сохранен</string>
 </resources>
