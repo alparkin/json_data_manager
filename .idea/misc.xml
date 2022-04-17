@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JsonDataManager/app/src/main/res/layout/activity_edit_person.xml" value="0.19739583333333333" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/JsonDataManager/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JsonDataManager/app/src/main/res/layout/person_recycler_view_item.xml" value="0.3546875" />
       </map>
     </option>
   </component>

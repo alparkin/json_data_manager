@@ -7,4 +7,9 @@
     <string name="button_save">Сохранить</string>
     <string name="button_read">Прочитать</string>
     <string name="toast_save_file_ok">Файл сохранен</string>
+    <string name="button_delete">Удалить</string>
+    <string name="button_cancel">Отменить</string>
+    <string name="button_update">Изменить</string>
+    <string name="button_add">Добавить</string>
+    <string name="floating_button_add_description">Добавить</string>
 </resources>

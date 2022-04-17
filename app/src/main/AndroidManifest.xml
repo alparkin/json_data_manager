@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JsonDataManager">
         <activity
+            android:name=".EditPersonActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
