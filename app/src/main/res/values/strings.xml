@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">JsonDataManager</string>
+    <string name="label_first_name">Имя:</string>
+    <string name="edit_text_first_name_hint">Введите имя...</string>
+    <string name="label_last_name">Фамилия:</string>
+    <string name="edit_text_last_name_hint">Введите фамилию...</string>
+    <string name="button_save">Сохранить</string>
+    <string name="button_read">Прочитать</string>
 </resources>
